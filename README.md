@@ -7,8 +7,9 @@ This is my first app, and it allows users to press the button to change my text 
 
 <img src="https://i.imgur.com/42RZwVu.gif" width=200><br>
 
+<img src="https://i.imgur.com/tlT1lv9.gif" width=200><br>
 
-<img src="https://i.imgur.com/dHUunnj.gif" width=200><br>
+<img src="https://i.imgur.com/Xehz2jz.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
