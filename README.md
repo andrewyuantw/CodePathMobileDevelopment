@@ -1,6 +1,8 @@
 ## Andrew's First App
 
-### My app allows users to change text/color by clicking buttons on the screen
+### App Description
+
+My app allows users to change text/color by clicking buttons on the screen
 
 ### App Walk-though
 
